@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portafolios/static/css/main.7f26f75b.css",
-    "main.js": "/portafolios/static/js/main.794f690c.js",
+    "main.js": "/portafolios/static/js/main.79269a68.js",
     "static/js/787.d5fa4d18.chunk.js": "/portafolios/static/js/787.d5fa4d18.chunk.js",
     "static/media/FotoPerfil2.png": "/portafolios/static/media/FotoPerfil2.1cceafc9fde0852f7fc4.png",
     "static/media/FotoRostro.png": "/portafolios/static/media/FotoRostro.dbbb47a3261e5096cda6.png",
@@ -15,6 +15,7 @@
     "static/media/DLS-page.png": "/portafolios/static/media/DLS-page.776915cbb043f96eee52.png",
     "static/media/logo-sin-fondo.png": "/portafolios/static/media/logo-sin-fondo.2414174d8accf7ec69cd.png",
     "static/media/MikeSoft-fuente.png": "/portafolios/static/media/MikeSoft-fuente.5d5c93b639fa19fb745a.png",
+    "static/media/Logoautoescuela4.png": "/portafolios/static/media/Logoautoescuela4.8aca5da0b52fc49b70ab.png",
     "static/media/vilmarket.png": "/portafolios/static/media/vilmarket.215470c498525a8d987b.png",
     "static/media/logos--react.svg": "/portafolios/static/media/logos--react.1ab4881ec20f7d946bc4927dd9071d00.svg",
     "static/media/skill-icons--photoshop.svg": "/portafolios/static/media/skill-icons--photoshop.e62a40420e4e29815b8184ff7db82d3c.svg",
@@ -31,11 +32,11 @@
     "static/media/logos--facebook.svg": "/portafolios/static/media/logos--facebook.6acd5606be798d6cd42a41d1e524f429.svg",
     "static/media/devicon--linkedin.svg": "/portafolios/static/media/devicon--linkedin.27f9e9cb3a5fae594ec0579828bb9864.svg",
     "main.7f26f75b.css.map": "/portafolios/static/css/main.7f26f75b.css.map",
-    "main.794f690c.js.map": "/portafolios/static/js/main.794f690c.js.map",
+    "main.79269a68.js.map": "/portafolios/static/js/main.79269a68.js.map",
     "787.d5fa4d18.chunk.js.map": "/portafolios/static/js/787.d5fa4d18.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f26f75b.css",
-    "static/js/main.794f690c.js"
+    "static/js/main.79269a68.js"
   ]
 }
